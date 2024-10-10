@@ -2,8 +2,11 @@ package com.campusdual.classroom;
 
 public class Exercise05 {
     public static void main(String[] args) {
+        checkLessOrGreaterEqual(1,999);
         checkLessOrGreaterEqual(7,4);
-        checkMultiply(5,2);
+        checkMultiply(5,8);
+        checkMultiply(14,7);
+        checkPositiveNegative(-3);
         checkPositiveNegative(4);
     }
 
